@@ -1,6 +1,6 @@
 ###  :man_technologist:  [王传传](https://wchuanc.cn)，[CodeGuide | 程序员编码指南](https://github.com/wangchuanchuan/CodeGuide/wiki)
 
-👋 Hi, I'm FuZhengWei,a passionate self-taught backend developer from China 🚀. 
+👋 Hi, I'm WangChuanchuan,a passionate self-taught backend developer from China 🚀. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 -  **Languages :** Java, ASM, Netty, Mysql
 -  **Hobbies :** ChineseChess :performing_arts: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [XiaoFuGe](mailto:184172133@qq.com)
+-  **Contact me :** [ccwRadar](mailto:wchuanc@126.com)
 
 
 ### Languages and Tools
